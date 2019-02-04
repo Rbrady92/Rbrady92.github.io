@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Project"
-date:       2019-02-04 00:29:25 +0000
+date:       2019-02-03 19:29:26 -0500
 permalink:  my_first_project
 ---
 
@@ -18,5 +18,5 @@ Shortly after learning this and kicking myself for not realizing something so ob
 I started out with some pseudocode again so I could have a good idea of what I would need, and wrote out all the methods for scraping, UI messages, and displaying article titles/text, and tied them together so they could access eachother and communicate properly. Then, after reading up on how to actually create a gem usable by others (in a useful tutorial written by another Flatiron student), a little advice from a friend on how I could better implement the single responsibility principle, and some final testing, my program was functional and complete! Even though its a simple program, I finally had that feeling of accomplishment and satisfaction. I had written something that interacted with the internet and allowed people to browse different categories of news, read articles, move around a menu, and get a url if they want to read in browser or share a story with a friend. I also learned a valuable lesson despite all the frustration and lost time in the beginning, I will now always remember to make sure I know the limits of the tools I'm using and that they're the right ones for the job. 
 
 
-I'll be updating this if possible with a link to my gem at some point for anyone interested, but one of the sites I'm scraping doesn't seem to like consistency in their article tagging so I keep finding new exceptions to account for!
+I'll be updating this with a link to my gem/github at some point for anyone interested, but one of the sites I'm scraping doesn't seem to like consistency in their article tagging so I keep finding new exceptions to account for!
 
